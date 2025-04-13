@@ -1,0 +1,17 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="100" viewBox="0 0 300 100">
+  <style>
+    .red { fill: #880000; font-family: Arial, sans-serif; font-weight: bold; }
+    .blue { fill: #017d97; font-family: Arial, sans-serif; font-weight: bold; }
+  </style>
+  
+  <!-- PIE Text -->
+  <text x="10" y="40" font-size="28" class="red">PIE</text>
+
+  <!-- Pi Symbol in a Box -->
+  <rect x="80" y="10" width="35" height="35" rx="5" ry="5" stroke="#880000" fill="white" stroke-width="3"/>
+  <text x="88" y="35" font-size="24" class="blue">π</text>
+
+  <!-- INFOCOMM Text -->
+  <text x="10" y="85" font-size="28" class="blue">INFOCOMM</text>
+</svg>
